@@ -13,9 +13,9 @@
 </div>
 
 ## 🚀 À propos de ce Portfolio
-Ce portfolio TEZERE est une app web fullstack Flask showcaseant mes skills en dev, sysadmin (Proxmox/Pterodactyl) et cybersécu. Thème cyberpunk : grid canvas interactif (mousemove glow), animations AOS fluides, responsive mobile-first avec JetBrains Mono. Protection anti-DoS via Flask-Limiter et headers CSP.[cite:1][cite:4]
+Ce portfolio TEZERE est une app web fullstack Flask showcaseant mes skills en dev, sysadmin (Proxmox/Pterodactyl) et cybersécu. Thème cyberpunk : grid canvas interactif (mousemove glow), animations AOS fluides, responsive mobile-first avec JetBrains Mono. .[cite:1][cite:4]
 
-- **Objectif** : Attirer recruteurs/clients pour hosting Minecraft, infra sécurisée, pentest légal.
+- **Objectif** : Attirer recruteurs/client.
 - **Inspirations** : Cyberpunk 2077 + hacker folios pros.[web:10][web:13]
 
 ## 💻 Le Code Explicité
