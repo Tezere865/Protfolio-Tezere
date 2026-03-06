@@ -3,7 +3,7 @@
 ![TEZERE Banner](https://via.placeholder.com/1200x300/0a0a2e/ffffff?text=TEZERE+-+Cyber+Dev+Portfolio)
 
 # TEZERE - Portfolio Développeur Fullstack & Architecte CyberSécurité
-**teano-cevalier** | Loudun, Nouvelle-Aquitaine, FR | *MàJ: 06/03/2026*
+
 
 [![GitHub followers](https://img.shields.io/github/followers/Tezere865?label=Followers&style=social)](https://github.com//Tezere865)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
