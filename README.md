@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/teano-cevalier?label=Followers&style=social)](https://github.com/teano-cevalier)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-*Live Demo : [studio.r00ting.xyz](http://127.0.0.1:5001)*
+*Live Demo : [Click IcI](https://tezere.minetost.com/)*
 
 </div>
 
